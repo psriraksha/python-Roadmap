@@ -14,8 +14,9 @@ print("*******************************************")
 list=[10,90,60,40,30,29]
 print("given list: "+ str(list))
 list.sort()#sorting
-list.reverse()
+list.reverse() #reverse
 print(f"Descending order: {list}")
 list.reverse()#reverse
 print(f"reversed list: {list}")
+
 
